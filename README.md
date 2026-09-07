@@ -111,8 +111,6 @@ Provides a high-level view of:
 * Market performance
 * Regional performance
 
-📷 Screenshot: `Screenshots/Dashboard_Overview.png`
-
 ---
 
 ### 2️⃣ Warehouse Efficiency
@@ -127,8 +125,6 @@ Focuses on:
 * Shipping modes
 * Market performance
 
-📷 Screenshot: `Screenshots/Supplier_Scoreboard.png`
-
 ---
 
 ### 3️⃣ Inventory & Product Performance
@@ -141,8 +137,6 @@ Analyzes:
 * Product quantity
 * Profitability
 * Customer cities
-
-📷 Screenshot: `Screenshots/Transportation_Cost.png`
 
 ---
 
@@ -157,8 +151,6 @@ Focuses on:
 * Country performance
 * Shipping modes
 * Delivery risk
-
-📷 Screenshot: `Screenshots/Route_Carrier_Performance.png`
 
 ---
 
