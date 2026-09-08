@@ -193,10 +193,7 @@ Approximately **1.08K records** are associated with late-delivery risk. Risk can
 │   └── 📊 DataCo_Supply_Chain_Dashboard.pbix
 │
 └── 📁 Screenshots
-    ├── 📊 Dashboard_Overview.png
-    ├── 📊 Supplier_Scoreboard.png
-    ├── 📊 Transportation_Cost.png
-    └── 📊 Route_Carrier_Performance.png
+    ├── 📊 All_Dashboard.png
 ```
 
 ---
