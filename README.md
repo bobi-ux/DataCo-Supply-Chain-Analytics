@@ -246,8 +246,8 @@ These are proposed future enhancements and are not part of the completed project
 
 **Infosys Springboard Virtual Internship**
 
-* Vaishnavi
 * Shreya
+* Vaishnavi
 * Pujitha
 * Siva Reddy
 * Imam Khasim
